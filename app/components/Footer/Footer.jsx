@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 const links = [
-  { label: "Why Black Sofa", href: "/why" },
+  { label: "Why Ashford Hale", href: "/why" },
   { label: "Payroll", href: "/payroll" },
   { label: "Pricing", href: "/pricing" },
   { label: "Contact", href: "/contact" },
@@ -75,7 +75,7 @@ export default function Footer() {
               href="mailto:info@blacksofa.co.uk"
               className="group relative text-sm text-[#3a3a3a99] transition-all duration-300 hover:text-foreground hover:font-semibold inline-block"
             >
-              info@blacksofa.co.uk
+              info@ashfordhale.co.uk
               <span className="absolute -bottom-0.5 left-0 h-px w-0 bg-foreground/30 transition-all duration-300 group-hover:w-full" />
             </Link>
           </div>
@@ -92,7 +92,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="mt-8 pt-6 border-t border-white/30 text-center relative">
           <p className="text-xs text-[#3a3a3a]">
-            © {new Date().getFullYear()} Black Sofa London Limited. All rights
+            © {new Date().getFullYear()} Ashford Hale London Limited. All rights
             reserved.
           </p>
           <p className="mt-2 text-[11px] text-[#3a3a3a]">

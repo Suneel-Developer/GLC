@@ -16,7 +16,7 @@ const Header = () => {
   }, []);
 
   const navItems = [
-    { href: "/why", label: "Why Black Sofa" },
+    { href: "/why", label: "Why Ashford Hale" },
     { href: "/analytics", label: "Analytics" },
     { href: "/payroll", label: "Payroll" },
     { href: "/pricing", label: "Pricing" },

@@ -29,7 +29,7 @@ const Why = () => {
               }}
             >
               <h1 className="text-2xl font-medium md:text-[36px] lg:text-[40px] leading-[1.12] text-[#3a3a3a] font-garamond-light">
-                Why Black Sofa
+                Why Ashford Hale
               </h1>
 
               <p className="mt-1 text-base md:text-lg text-[#3a3a3a]/70 font-medium font-garamond-light">
@@ -43,7 +43,7 @@ const Why = () => {
                 </p>
 
                 <p>
-                  Black Sofa removes the friction from payroll by combining
+                  Ashford Hale removes the friction from payroll by combining
                   automation, real-time visibility, and built-in compliance into
                   one seamless system.
                 </p>
@@ -101,7 +101,7 @@ const Why = () => {
               style={{ background: "rgba(255, 255, 255, 0.62)" }}
             >
               <h2 className="text-2xl font-medium md:text-4xl lg:text-[42px] leading-[1.15] font-garamond-medium">
-                We built Black Sofa to remove that entirely
+                We built Ashford Hale to remove that entirely
               </h2>
 
               <p className="mt-5 text-[15px] text-[#3a3a3a]/50 leading-relaxed">

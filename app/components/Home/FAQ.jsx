@@ -4,12 +4,12 @@ import { useState, useRef, useEffect } from "react";
 
 const faqs = [
   {
-    question: "What does Black Sofa actually do?",
+    question: "What does Ashford Hale actually do?",
     answer:
-      "Black Sofa fully manages your payroll — from calculations and payslips to HMRC submissions and compliance. We take the entire process off your hands.",
+      "Ashford Hale fully manages your payroll — from calculations and payslips to HMRC submissions and compliance. We take the entire process off your hands.",
   },
   {
-    question: "Is Black Sofa fully HMRC compliant?",
+    question: "Is Ashford Hale fully HMRC compliant?",
     answer:
       "Yes. We operate in line with all UK payroll regulations and ensure every submission is accurate, on time and compliant.",
   },
@@ -41,7 +41,7 @@ const faqs = [
   {
     question: "Can you scale with our business?",
     answer:
-      "Absolutely. Whether you have 5 employees or 5,000, Black Sofa grows with you.",
+      "Absolutely. Whether you have 5 employees or 5,000, Ashford Hale grows with you.",
   },
   {
     question: "How long does it take to get set up?",
@@ -51,7 +51,7 @@ const faqs = [
   {
     question: "Will this work with our current payroll setup?",
     answer:
-      "Yes. Black Sofa is designed to fit around recruitment and contractor payroll workflows, including CIS and PAYE.",
+      "Yes. Ashford Hale is designed to fit around recruitment and contractor payroll workflows, including CIS and PAYE.",
   },
 ];
 

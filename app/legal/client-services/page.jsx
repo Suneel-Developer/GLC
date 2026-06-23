@@ -35,7 +35,7 @@ const ClientServices = () => {
           </h1>
 
           <p className="mt-6 text-[#3A3A3A]/70 leading-relaxed">
-            The terms under which Black Sofa provides payroll processing,
+            The terms under which Ashford Hale provides payroll processing,
             compliance management, and reporting services.
           </p>
         </div>
@@ -54,7 +54,7 @@ const ClientServices = () => {
               1. Scope of Services
             </h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              This agreement sets out the terms under which Black Sofa provides
+              This agreement sets out the terms under which Ashford Hale provides
               payroll processing, compliance management, and reporting services
               to the client.
             </p>
@@ -96,7 +96,7 @@ const ClientServices = () => {
               5. Liability
             </h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              Black Sofa's liability is limited to re-performing the affected
+              Ashford Hale's liability is limited to re-performing the affected
               services or refunding the relevant fees, at our discretion.
             </p>
           </section>

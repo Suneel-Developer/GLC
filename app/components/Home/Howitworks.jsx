@@ -201,7 +201,7 @@ export default function HowItWorks() {
       <div className="relative z-10 mx-auto max-w-300 px-6">
         <div className="text-center">
           <h2 className="text-3xl font-medium md:text-4xl lg:text-[44px] leading-[1.15] font-garamond-medium">
-            How Black Sofa Works
+            How Ashford Hale Works
           </h2>
         </div>
       </div>

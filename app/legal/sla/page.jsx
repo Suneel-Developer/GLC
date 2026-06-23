@@ -4,7 +4,7 @@ const sections = [
   {
     title: "1. Service Availability",
     content: [
-      "Black Sofa aims to maintain 99.9% platform uptime, excluding scheduled maintenance.",
+      "Ashford Hale aims to maintain 99.9% platform uptime, excluding scheduled maintenance.",
     ],
   },
   {

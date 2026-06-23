@@ -29,7 +29,7 @@ const Disclaimer = () => {
         </h1>
 
         <p className="mt-6 text-[#3A3A3A]/70 leading-relaxed">
-          Important information about the use of this website and the content provided by Black Sofa.
+          Important information about the use of this website and the content provided by Ashford Hale.
         </p>
 
         <div className="mt-10 flex items-center justify-center gap-4">
@@ -44,7 +44,7 @@ const Disclaimer = () => {
           <section>
             <h2 className="text-2xl font-medium font-display">1. General</h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              Information on this website is for general informational purposes. Black Sofa makes no warranties about completeness or accuracy.
+              Information on this website is for general informational purposes. Ashford Hale makes no warranties about completeness or accuracy.
             </p>
           </section>
 
@@ -58,7 +58,7 @@ const Disclaimer = () => {
           <section>
             <h2 className="text-2xl font-medium font-display">3. Third-Party Links</h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              Our website may contain external links. Black Sofa is not responsible for third-party content.
+              Our website may contain external links. Ashford Hale is not responsible for third-party content.
             </p>
           </section>
         </div>

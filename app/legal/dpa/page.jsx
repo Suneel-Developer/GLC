@@ -29,7 +29,7 @@ const DPA = () => {
         </h1>
 
         <p className="mt-6 text-[#3A3A3A]/70 leading-relaxed">
-          This agreement sets out how Black Sofa processes personal data on behalf of our clients — ensuring security, compliance and transparency.
+          This agreement sets out how Ashford Hale processes personal data on behalf of our clients — ensuring security, compliance and transparency.
         </p>
 
         <div className="mt-10 flex items-center justify-center gap-4">
@@ -44,7 +44,7 @@ const DPA = () => {
           <section>
             <h2 className="text-2xl font-medium font-display">1. Scope</h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              This DPA applies where Black Sofa processes personal data as a data processor.
+              This DPA applies where Ashford Hale processes personal data as a data processor.
             </p>
           </section>
 

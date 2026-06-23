@@ -4,7 +4,7 @@ const sections = [
   {
     title: "1. Overview",
     content: [
-      "Black Sofa is committed to preventing money laundering, fraud and financial crime.",
+      "Ashford Hale is committed to preventing money laundering, fraud and financial crime.",
       "We take a practical, risk-based approach to ensure our services are not used for unlawful purposes, while keeping things straightforward for our clients.",
     ],
   },
@@ -63,7 +63,7 @@ const Aml = () => {
         </h1>
 
         <p className="mt-6 text-[#3A3A3A]/70 leading-relaxed">
-          Black Sofa takes a practical, risk-based approach to preventing financial crime — keeping things simple, transparent and secure.
+          Ashford Hale takes a practical, risk-based approach to preventing financial crime — keeping things simple, transparent and secure.
         </p>
 
         <div className="mt-10 flex items-center justify-center gap-4">

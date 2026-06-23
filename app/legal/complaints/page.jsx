@@ -35,7 +35,7 @@ const Complaints = () => {
           </h1>
 
           <p className="mt-6 text-[#3A3A3A]/70 leading-relaxed">
-            Black Sofa is committed to providing excellent service. If something
+            Ashford Hale is committed to providing excellent service. If something
             goes wrong, we want to hear about it and put it right.
           </p>
         </div>
@@ -54,7 +54,7 @@ const Complaints = () => {
               1. Our Commitment
             </h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              Black Sofa is committed to providing excellent service. If
+              Ashford Hale is committed to providing excellent service. If
               something goes wrong, we want to hear about it and put it right.
             </p>
           </section>

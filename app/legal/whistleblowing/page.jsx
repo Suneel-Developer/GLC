@@ -4,13 +4,13 @@ const sections = [
   {
     title: "1. Purpose",
     content: [
-      "Black Sofa encourages a culture of openness and accountability. This policy provides a safe mechanism for reporting concerns about wrongdoing.",
+      "Ashford Hale encourages a culture of openness and accountability. This policy provides a safe mechanism for reporting concerns about wrongdoing.",
     ],
   },
   {
     title: "2. Scope",
     content: [
-      "This policy applies to all employees, contractors, and third parties working with Black Sofa.",
+      "This policy applies to all employees, contractors, and third parties working with Ashford Hale.",
     ],
   },
   {
@@ -66,7 +66,7 @@ const Whistleblowing = () => {
         </h1>
 
         <p className="mt-6 text-[#3A3A3A]/70 leading-relaxed">
-          Black Sofa encourages a culture of openness and accountability — providing a safe mechanism for reporting concerns.
+          Ashford Hale encourages a culture of openness and accountability — providing a safe mechanism for reporting concerns.
         </p>
 
         <div className="mt-10 flex items-center justify-center gap-4">

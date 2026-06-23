@@ -106,7 +106,7 @@ export default function Home() {
                   <h3 className="text-lg font-medium md:text-xl text-[#2b2b2b]/55 font-garamond-medium">
                     Payroll
                     <br />
-                    without Black Sofa
+                    without Ashford Hale
                   </h3>
                 </div>
 
@@ -117,7 +117,7 @@ export default function Home() {
                   <h3 className="text-lg font-medium md:text-xl text-[#2b2b2b]/55 font-garamond-medium">
                     Payroll
                     <br />
-                    with Black Sofa
+                    with Ashford Hale
                   </h3>
                 </div>
               </div>
@@ -255,7 +255,7 @@ export default function Home() {
 
               <div className="mx-auto mt-6 max-w-130 space-y-3 text-sm leading-relaxed text-[#3a3a3a]/65">
                 <p>
-                  Black Sofa removes the manual work, the back and forth, and
+                  Ashford Hale removes the manual work, the back and forth, and
                   the uncertainty from payroll.
                 </p>
 
@@ -318,7 +318,7 @@ export default function Home() {
               </div>
               <div className="relative z-10 w-full">
                 <h2 className="text-2xl md:text-[32px] lg:text-4xl leading-[1.15] text-[#2b2b2b] font-garamond-light">
-                  See exactly how your payroll would run with Black Sofa
+                  See exactly how your payroll would run with Ashford Hale
                 </h2>
 
                 <div className="mt-6">
@@ -330,7 +330,7 @@ export default function Home() {
                   </Link>
 
                   <p className="mt-3 text-[13px] text-[#3a3a3a]/40">
-                    Get started with Black Sofa
+                    Get started with Ashford Hale
                   </p>
                 </div>
               </div>

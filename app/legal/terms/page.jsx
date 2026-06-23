@@ -35,7 +35,7 @@ const Terms = () => {
           </h1>
 
           <p className="mt-6 text-[#3A3A3A]/70 leading-relaxed">
-            By using Black Sofa's website or services, you agree to these terms
+            By using Ashford Hale's website or services, you agree to these terms
             — designed to keep things fair, clear and straightforward.
           </p>
         </div>
@@ -54,7 +54,7 @@ const Terms = () => {
               1. Agreement
             </h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              By using Black Sofa's website or services, you agree to these
+              By using Ashford Hale's website or services, you agree to these
               Terms. If you do not agree, do not use our services.
             </p>
           </section>
@@ -64,7 +64,7 @@ const Terms = () => {
               2. Services
             </h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              Black Sofa provides payroll outsourcing, compliance management,
+              Ashford Hale provides payroll outsourcing, compliance management,
               reporting, and related services.
             </p>
           </section>
@@ -75,7 +75,7 @@ const Terms = () => {
             </h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
               Clients must provide accurate, complete, and timely payroll data.
-              Black Sofa is not liable for errors from inaccurate or late
+              Ashford Hale is not liable for errors from inaccurate or late
               submissions.
             </p>
           </section>

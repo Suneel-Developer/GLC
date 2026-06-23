@@ -33,7 +33,7 @@ const Privacy = () => {
           </h1>
 
           <p className="mt-6 text-[#3A3A3A]/70 leading-relaxed">
-            Black Sofa is committed to protecting your privacy. This policy
+            Ashford Hale is committed to protecting your privacy. This policy
             explains how we collect, use, and protect your personal data —
             keeping things transparent and secure.
           </p>
@@ -56,7 +56,7 @@ const Privacy = () => {
               1. Introduction
             </h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              Black Sofa London Limited (“Black Sofa”, “we”, “our”) is committed
+              Ashford Hale London Limited (“Ashford Hale”, “we”, “our”) is committed
               to protecting your privacy. This policy explains how we collect,
               use, and protect your personal data.
             </p>
@@ -68,7 +68,7 @@ const Privacy = () => {
               2. Data Controller
             </h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              Black Sofa London Limited is the data controller. We are
+              Ashford Hale London Limited is the data controller. We are
               registered in England and Wales.
             </p>
           </section>
@@ -127,7 +127,7 @@ const Privacy = () => {
               7. Contact
             </h2>
             <p className="mt-3 text-[#3A3A3A]/80 leading-relaxed">
-              privacy@blacksofa.co.uk — Black Sofa London Limited, London, UK.
+              privacy@blacksofa.co.uk — Ashford Hale London Limited, London, UK.
             </p>
           </section>
         </div>
