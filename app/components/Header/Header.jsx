@@ -42,7 +42,7 @@ const Header = () => {
           href="/"
           className="text-base sm:text-lg font-bold tracking-tight"
         >
-          Green Live Construction Ltd
+        Ashford Hale
         </Link>
 
         {/* Desktop */}

@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Green Live Construction Ltd",
-  description: "Green Live Construction Ltd",
+  title: "Ashford Hale",
+  description: "Ashford Hale",
 };
 
 export default function RootLayout({ children }) {
