@@ -1,26 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Geist+Mono:ital,wght@0,100..900;1,100..900&display=swap");
 @import "tailwindcss";
+
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("/assets/fonts/CormorantGaramond-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("/assets/fonts/CormorantGaramond-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("/assets/fonts/CormorantGaramond-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("/assets/fonts/CormorantGaramond-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("/assets/fonts/CormorantGaramond-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --foreground: #2b2b2b;
+  --color-muted: #3a3a3a;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Geist Mono", monospace;
+  color: var(--color-muted);
+  background: 0 0;
+  min-height: 100vh;
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+html {
+  scroll-behavior: smooth;
+  height: 100%;
+}
+
+
+.font-garamond {
+  font-family: "Cormorant Garamond", serif;
+}
+
+.font-garamond-light {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 300;
+}
+
+.font-garamond-regular {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
+}
+
+.font-garamond-medium {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 500;
+}
+
+.font-garamond-semibold {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 600;
+}
+
+.font-garamond-bold {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 700;
+}
+
+.btn-primary {
+  background: var(--foreground);
+  color: #ffffffe6;
+  z-index: 0;
+  border-radius: 9999px;
+  padding: 10px 24px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.45s cubic-bezier(0.33, 1, 0.68, 1);
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-primary:before {
+  content: "";
+  border-radius: inherit;
+  opacity: 0;
+  z-index: -1;
+  background: linear-gradient(
+    135deg,
+    #9b84ff 0%,
+    #c7a8ff 40%,
+    #e4b8ff 70%,
+    #f0c8ff 100%
+  );
+  transition: opacity 0.45s cubic-bezier(0.33, 1, 0.68, 1);
+  position: absolute;
+  inset: 0;
+}
+
+.btn-primary:hover:before {
+  opacity: 1;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px #9b84ff59;
+}
+
+p,
+li,
+span,
+a {
+  letter-spacing: -0.03em;
+  text-wrap: pretty;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    letter-spacing: -.03em;
+    color: #2b2b2b;
+    text-wrap: balance;
+    font-weight: 500;
+    line-height: 1.15;
+}
+
+
+.glass {
+    -webkit-backdrop-filter: blur(24px);
+    background: #ffffffd1;
+    border: 1px solid #ffffff4d;
 }
